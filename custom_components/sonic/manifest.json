@@ -3,6 +3,7 @@
   "name": "Sonic (Hero Labs)",
   "codeowners": ["@markvader"],
   "config_flow": true,
+  "documentation": "https://github.com/markvader/sonic_hacs",
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/markvader/sonic_hacs/issues",
   "loggers": ["sonic"],
